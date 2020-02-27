@@ -1,0 +1,139 @@
+body{
+  background: white;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+
+}
+.logo{
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  white;
+  background: #5a5a5a;
+  padding: 20px;
+
+}
+.logo1{
+  background: url("../img/Shape 8 copy 4.png");
+}
+.a1{
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  white;
+  background: #f1c206;
+  padding: 20px;
+  text-align: center
+}
+.a2{
+  text-align: center ;
+padding: 30px;
+
+
+}
+.container {
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+
+}
+.video{
+  width: 100%;
+
+}
+.a4{
+  font-size: 18px;
+  font-weight: bold;
+ background: white;
+  padding: 30px 10px 0 30px;
+  text-align: center;
+  background: url("../img/Layer 27.png");
+
+
+}
+.a3{
+  color: white;
+}
+.a3:hover{
+  color: black;
+}
+.a5{
+
+color: black;
+}
+.a5:hover{
+  color: #e5a422;
+}
+.img1{
+width: 100%;
+background:#f5c507;
+
+}
+.img2{
+  width: 100%;
+  background:#f5c507;
+
+}
+
+#type_tnumb{
+  width: 240px;
+  height: 40px;
+  float: left;
+
+  background: #ffffff;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  color: black;
+  font-weight: bold;
+  border-radius: 20px;
+}
+#call-back_btn{
+  width: 196px;
+  height: 40px;
+  display: inline; /* Отображать как строчный элемент */
+  margin-right: 5px; /* Отступ слева */
+  border: 1px solid #000; /* Рамка вокруг текста */
+  padding: 3px;
+  width: 160px;
+  background: #e5a422;
+  -webkit-box-shadow: inset 0 -3px 0 0 #ff561b;
+  -moz-box-shadow: inset 0 -3px 0 0 #ff561b;
+  box-shadow: inset 0 -3px 0 0 #ff561b;
+  color: white;
+  border-radius: 20px;
+}
+#call-back_btn:hover{
+  color:black;
+}
+.lol7{
+ background: url("../img/Shape 8 copy 4.png");
+width: 70Px;
+}
+
+
+.lol8 {
+  background: url("../img/Shape 8 copy 4.png");
+}
+.footer{
+background: #4c4c4c;
+}
+.address{
+  color: white;
+}
+.a6{
+  color: white;
+}
+.a6:hover{
+  color: #e5a422;
+}
+.a10{
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
+.tw{
+  padding: 380px 0 0 40px;
+}
+.th{
+  padding: 0 -29px 0 -500px;
+}
